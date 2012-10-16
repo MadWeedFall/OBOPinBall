@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="include\Entity.h" open="0" top="0" tabpos="4">
+		<Cursor position="538" topLine="0" />
+	</File>
+	<File name="include\PBFContactListener.h" open="0" top="0" tabpos="2">
+		<Cursor position="466" topLine="16" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="10536" topLine="309" />
+	</File>
+	<File name="src\Entity.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="494" topLine="1" />
+	</File>
+	<File name="src\PBFContactListener.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1179" topLine="23" />
+	</File>
+</CodeBlocks_layout_file>

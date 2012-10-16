@@ -1,0 +1,12 @@
+PinBallFrenzy ReadMe or what as you wish
+This is an simple pinball game prototype I made while learning C++ language, so the code style is quite bad.
+This little game use HGE 2d game engine and Box2D for physics simulation. You may find this two famous projects on Git.
+Though the code style is bad, the game logic is straight forward, if you are also fresh in game making, I think this may still do some help.
+For future improments, I may start over on this and code from zero. Or maybe not, why make a more enjoyable game then?
+The repo's name OBOPinBall stands for Open Box2D Opengl Pin Ball, as you can see, no opengl involved in this project. Well I lied, U mad?
+Actualy, I made a opengl2.0 based 2D game render for this game, and at first cocos2d-x is my first choice of making mini games.However, when I left my hometown,
+and have my after gradute courses in BeiJing, I took only my lap top with me, and unfortunately, it's Dell 6400 with a video card of ATI1400x, which is
+quite famous for even not suporting Opengl1.6, so it's impossible for me to write any pratical code using opengl on this machine.
+
+All the graphic resources in this project was made by me, you can use them free as you wish if you want to.
+So,if you like or realy hate this project, please tell me at lixuhit@gmail.com ,thank you. 

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1347380694 source:e:\pinballfrenzy\src\entity.cpp
+	"../include/Entity.h"
+
+1347380634 e:\pinballfrenzy\include\entity.h
+	<HGE/hge.h>
+	<HGE/hgesprite.h>
+	<Box2D/Box2D.h>
+
+1202806104 e:\pinballfrenzy\include\hge.h
+	<windows.h>
+
+1347528940 source:e:\pinballfrenzy\main.cpp
+	<iostream>
+	<vector>
+	<HGE/hge.h>
+	<HGE/hgefont.h>
+	<HGE/hgeparticle.h>
+	<Box2D/Box2D.h>
+	"include/Entity.h"
+	"include/PBFContactListener.h"
+
+1347379705 source:e:\pinballfrenzy\src\pbfcontactlistener.cpp
+	"../include/PBFContactListener.h"
+
+1347375767 e:\pinballfrenzy\include\pbfcontactlistener.h
+	<Box2D/Box2D.h>
+
