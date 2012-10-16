@@ -1,4 +1,4 @@
 OBOPinBall
 ==========
 
-Open Box2d and OpenGL Based pinball game
+Open Box2d and HGE Based pinball game
